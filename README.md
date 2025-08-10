@@ -1,8 +1,6 @@
-# Computer Vision Project – Plane Detection & Box Size Estimation
+# Plane Detection & Box Size Estimation
 
 This project implements and evaluates three plane detection algorithms — **RANSAC**, **MLESAC**, and **Preemptive RANSAC** — on 3D point cloud data from a Kinect sensor to estimate the dimensions of a box placed on the floor.
-
-The work is based on *Computer Vision Project – Individual Exercise 1* (Summer 2025) and focuses on extending standard RANSAC with more robust and time-efficient variants, as described in the provided exercise sheet.
 
 ---
 
